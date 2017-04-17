@@ -4,6 +4,7 @@ background: green;
 
 #sbtbutton {
 background: green;
+font-style: bold;
 }
 
 #addsearch {
@@ -11,4 +12,17 @@ background: green;
 color: black;
 font-size: 24px;
 font-style: bold;
+}
+
+p {
+background: green;
+color: black;
+width: 60px;
+}
+
+h1 {
+text-align: center;
+background: green;
+width: 250px;
+margin-left: 40%;
 }
